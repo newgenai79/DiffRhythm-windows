@@ -1,0 +1,8 @@
+.cache/
+__pycache__/
+pretrained/
+.vscode
+.idea
+.DS_Store
+ckpt
+wandb
